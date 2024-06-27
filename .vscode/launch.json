@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q5_ReveerseVowelsofString",
+            "request": "launch",
+            "mainClass": "Q5_ReveerseVowelsofString",
+            "projectName": "Leetcode 75_1dcd960c"
+        },
+        {
+            "type": "java",
+            "name": "Q4_CanPlaceFlowers",
+            "request": "launch",
+            "mainClass": "Q4_CanPlaceFlowers",
+            "projectName": "Leetcode 75_1dcd960c"
+        },
+        {
+            "type": "java",
+            "name": "Q3_GreatestNoCandies",
+            "request": "launch",
+            "mainClass": "Q3_GreatestNoCandies",
+            "projectName": "Leetcode 75_1dcd960c"
+        },
+        {
+            "type": "java",
+            "name": "Q2_GCDofString",
+            "request": "launch",
+            "mainClass": "Q2_GCDofString",
+            "projectName": "Leetcode 75_1dcd960c"
+        },
+        {
+            "type": "java",
             "name": "Q1_MergeStringsAlternately",
             "request": "launch",
             "mainClass": "Q1_MergeStringsAlternately",
