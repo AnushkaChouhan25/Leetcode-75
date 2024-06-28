@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q9_StringCompression",
+            "request": "launch",
+            "mainClass": "Q9_StringCompression",
+            "projectName": "Leetcode 75_1dcd960c"
+        },
+        {
+            "type": "java",
+            "name": "Q8_IncreasingTripletSubsequence",
+            "request": "launch",
+            "mainClass": "Q8_IncreasingTripletSubsequence",
+            "projectName": "Leetcode 75_1dcd960c"
+        },
+        {
+            "type": "java",
+            "name": "Q7_ProductOfArrayExceptSelf",
+            "request": "launch",
+            "mainClass": "Q7_ProductOfArrayExceptSelf",
+            "projectName": "Leetcode 75_1dcd960c"
+        },
+        {
+            "type": "java",
+            "name": "Q6_ReverseWordsinString",
+            "request": "launch",
+            "mainClass": "Q6_ReverseWordsinString",
+            "projectName": "Leetcode 75_1dcd960c"
+        },
+        {
+            "type": "java",
             "name": "Q5_ReveerseVowelsofString",
             "request": "launch",
             "mainClass": "Q5_ReveerseVowelsofString",
