@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q13_MaxNumberofKSumPairs",
+            "request": "launch",
+            "mainClass": "Q13_MaxNumberofKSumPairs",
+            "projectName": "Leetcode 75_1dcd960c"
+        },
+        {
+            "type": "java",
+            "name": "Q12_ContainerWithMostWater",
+            "request": "launch",
+            "mainClass": "Q12_ContainerWithMostWater",
+            "projectName": "Leetcode 75_1dcd960c"
+        },
+        {
+            "type": "java",
+            "name": "xyz",
+            "request": "launch",
+            "mainClass": "xyz",
+            "projectName": "Leetcode 75_1dcd960c"
+        },
+        {
+            "type": "java",
+            "name": "Q11_IsSubSequences",
+            "request": "launch",
+            "mainClass": "Q11_IsSubSequences",
+            "projectName": "Leetcode 75_1dcd960c"
+        },
+        {
+            "type": "java",
+            "name": "Q10_MoveZeroes",
+            "request": "launch",
+            "mainClass": "Q10_MoveZeroes",
+            "projectName": "Leetcode 75_1dcd960c"
+        },
+        {
+            "type": "java",
             "name": "Q9_StringCompression",
             "request": "launch",
             "mainClass": "Q9_StringCompression",
